@@ -1,4 +1,4 @@
-# GNSS_SDR
+# MATLAB Code for GNSS Multipath Classification
 ## Functions:
 1. Loads the dataset and extracts input features and output error.
 2. Normalizes the input features for better model performance.
