@@ -1,4 +1,6 @@
 # MATLAB Code for GNSS Multipath Classification
+## Training Datasets:
+It contains some labeled datasets for training purposes.
 ## Functions:
 1. Loads the dataset and extracts input features and output error.
 2. Normalizes the input features for better model performance.
