@@ -1,4 +1,5 @@
-# MATLAB Code for GNSS Multipath Classification Contact julinhkg@gmail.com for any inquiries
+# Contact julinhkg@gmail.com for any inquiries
+# MATLAB Code for GNSS Multipath Classification
 ## Training Datasets:
 It contains some labeled datasets for training purposes.
 
