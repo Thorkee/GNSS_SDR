@@ -1,13 +1,10 @@
-# Contact julinhkg@gmail.com for any inquiries
 # MATLAB Code for GNSS Multipath Classification
 ## Training Datasets:
 ### DOI: 10.13140/RG.2.2.19040.25609
 It contains some labeled datasets for training purposes.
 
 ## Alghorithm:
-The algorithm files are under construction.
+Code for data labeling is uploaded.
 
 ## Note:
-1. It is only a very prelimentary code, bugs are unavoidable.
-2. ReliefF comes from external source.
-3. Dataset are pending to be uploaded.
+Further work is expected.
