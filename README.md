@@ -1,6 +1,6 @@
 # MATLAB Code for GNSS Multipath Classification
 ## Training Datasets:
-### DOI: 10.13140/RG.2.2.21556.83844
+### DOI: 10.13140/RG.2.2.23234.56001
 It contains some labeled datasets for training purposes.
 
 ## Alghorithm:
